@@ -1,0 +1,465 @@
+canonical_identifier: bkk:krp/KR3eh023/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh023/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 病機沙篆
+  identifiers:
+    krp: KR3eh023
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh023.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eh023_001-jc.yaml, hash: 'sha256:663f27eacfdb001fd9a069f3933468d954c86822297c549858a9a67f6b7f1866'}
+  - {seq: 3, filename: KR3eh023_003-jc.yaml, hash: 'sha256:4337044852c48db388a4e3080965c3a36fb361197c686b5c23f130b579f71008'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eh023_001-jc.markers.yaml, hash: 'sha256:f805faaba4c41f352297ed8a8eb0d4c4fb9933738a87ab37ef696537e0b8ca8b'}
+  - {seq: 3, role: markers, filename: assets/KR3eh023_003-jc.markers.yaml, hash: 'sha256:a2aa264326e1d250b0567bed0c14d737d595452da0df3055df182f50f2dd2baa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 26184
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 3500
+  label: 一中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d3
+    span:
+    - body
+    - 3500
+    - 10996
+  label: 二虛勞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d4
+    span:
+    - body
+    - 10996
+    - 11315
+  label: 三痰喘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d5
+    span:
+    - body
+    - 11315
+    - 15320
+  label: 四噎膈反胃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d6
+    span:
+    - body
+    - 15320
+    - 16635
+  label: 五痿
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d7
+    span:
+    - body
+    - 16635
+    - 17983
+  label: 六痹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d8
+    span:
+    - body
+    - 17983
+    - 20374
+  label: 七水腫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d9
+    span:
+    - body
+    - 20374
+    - 22041
+  label: 八瘧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d10
+    span:
+    - body
+    - 22041
+    - 25531
+  label: 丸痢
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2.d10d44
+    span:
+    - body
+    - 24190
+    - 25531
+  label: 十水瀉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eh023_jc_001-d2d11
+    span:
+    - body
+    - 25531
+    - 26184
+  label: 十一厥有八症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 29203
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 2857
+  label: 一頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d3
+    span:
+    - body
+    - 2857
+    - 3199
+  label: 二眩暈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d4
+    span:
+    - body
+    - 3199
+    - 4599
+  label: 三心痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d5
+    span:
+    - body
+    - 4599
+    - 5658
+  label: 四腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d6
+    span:
+    - body
+    - 5658
+    - 6727
+  label: 五腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d7
+    span:
+    - body
+    - 6727
+    - 8722
+  label: 六癲狂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3.d7d6
+    span:
+    - body
+    - 6754
+    - 7770
+  label: 癲證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3.d7d7
+    span:
+    - body
+    - 7770
+    - 8722
+  label: 狂症
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d8
+    span:
+    - body
+    - 8722
+    - 10818
+  label: 七癇症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d9
+    span:
+    - body
+    - 10818
+    - 11963
+  label: 八怔忡驚悸恐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d10
+    span:
+    - body
+    - 11963
+    - 12256
+  label: 九健忘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d11
+    span:
+    - body
+    - 12256
+    - 12798
+  label: 十不能寐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d12
+    span:
+    - body
+    - 12798
+    - 13349
+  label: 十一不能食
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d13
+    span:
+    - body
+    - 13349
+    - 14387
+  label: 十二自汗盜汗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d14
+    span:
+    - body
+    - 14387
+    - 14599
+  label: 十三關格
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d15
+    span:
+    - body
+    - 14599
+    - 14752
+  label: 十四呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d16
+    span:
+    - body
+    - 14752
+    - 16004
+  label: 十五霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d17
+    span:
+    - body
+    - 16004
+    - 18122
+  label: 十六脹滿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d18
+    span:
+    - body
+    - 18122
+    - 18440
+  label: 十七肩背痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d19
+    span:
+    - body
+    - 18440
+    - 18736
+  label: 十八臂痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d20
+    span:
+    - body
+    - 18736
+    - 19562
+  label: 十九脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d21
+    span:
+    - body
+    - 19562
+    - 20476
+  label: 二十腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d22
+    span:
+    - body
+    - 20476
+    - 21598
+  label: 二十一遺精
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d23
+    span:
+    - body
+    - 21598
+    - 22707
+  label: 二十二赤白濁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d24
+    span:
+    - body
+    - 22707
+    - 23442
+  label: 二十三赤白帶
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d25
+    span:
+    - body
+    - 23442
+    - 25971
+  label: 二十四疝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d26
+    span:
+    - body
+    - 25971
+    - 26924
+  label: 二十五癥瘕積聚痞癖痃疝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d27
+    span:
+    - body
+    - 26924
+    - 28065
+  label: 二十六淋閉癃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d28
+    span:
+    - body
+    - 28065
+    - 29147
+  label: 二十七前陰諸疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3.d28d14
+    span:
+    - body
+    - 28707
+    - 29147
+  label: 二十八後陰諸疾
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eh023_jc_003-d3d29
+    span:
+    - body
+    - 29147
+    - 29203
+  label: 二十丸交腸
+  type: section
+  level: 2
+hash: sha256:3232e4e19a167aa1fa0768ee5433fc8d67c86fb1e6123e6da65904e5d7b79b07
