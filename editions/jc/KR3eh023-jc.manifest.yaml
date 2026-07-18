@@ -19,8 +19,8 @@ assets:
   - {seq: 1, filename: KR3eh023_001-jc.yaml, hash: 'sha256:663f27eacfdb001fd9a069f3933468d954c86822297c549858a9a67f6b7f1866'}
   - {seq: 3, filename: KR3eh023_003-jc.yaml, hash: 'sha256:4337044852c48db388a4e3080965c3a36fb361197c686b5c23f130b579f71008'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eh023_001-jc.markers.yaml, hash: 'sha256:f805faaba4c41f352297ed8a8eb0d4c4fb9933738a87ab37ef696537e0b8ca8b'}
-  - {seq: 3, role: markers, filename: assets/KR3eh023_003-jc.markers.yaml, hash: 'sha256:a2aa264326e1d250b0567bed0c14d737d595452da0df3055df182f50f2dd2baa'}
+  - {seq: 1, role: markers, filename: assets/KR3eh023_001-jc.markers.yaml, hash: 'sha256:f84b53b4bcfb7a461f75ec07ec4a3048dd80f5fa747a56b3eb9cfcf610ceea71'}
+  - {seq: 3, role: markers, filename: assets/KR3eh023_003-jc.markers.yaml, hash: 'sha256:877bc178a56526d1ab713b1018888d93da4981af4853caa33ab82ce6c94a4ba9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -462,4 +462,4 @@ table_of_contents:
   label: 二十丸交腸
   type: section
   level: 2
-hash: sha256:3232e4e19a167aa1fa0768ee5433fc8d67c86fb1e6123e6da65904e5d7b79b07
+hash: sha256:bae9d1807b57ddd1e1180baf2d706fb702425a6bde66af95efb775658ec3de1e
